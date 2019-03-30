@@ -1,0 +1,8 @@
+﻿--SELECT * FROM payment;
+--SELECT COUNT(DISTINCT (amount))FROM payment;
+
+--SELECT * FROM payment
+--LIMIT 5; LIMITS YOUR SEARCH TO A NUMBER OF RECORDS
+
+
+
